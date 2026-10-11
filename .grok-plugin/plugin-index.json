@@ -868,7 +868,7 @@
       }
     },
     "querysail-gsc": {
-      "sha": "b8a42b4c3b35fdbd43fa75b8207a430774453523",
+      "sha": "add01c8459bc115d4549e0d493dd92bd33a49ff0",
       "version": "1.0.1",
       "components": {
         "mcpServers": [
